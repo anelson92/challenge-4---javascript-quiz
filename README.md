@@ -14,4 +14,8 @@ THEN I can save my initials and score ❌
 
 This is a Javascript quiz that also has a timer function. 
 
+Deployed app:
+
+https://anelson92.github.io/challenge-4---javascript-quiz/
+
 ![image](https://user-images.githubusercontent.com/115906480/205518294-d4d765cc-64de-4418-a124-7f43e3190e05.png)

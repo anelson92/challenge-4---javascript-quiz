@@ -1,0 +1,89 @@
+
+#start-container {
+    font-family: Cambria, serif; 
+    text-align: center;
+    width: 100%;
+
+}
+
+#quiz {
+    font-family: Cambria, serif; 
+    text-align: center;
+    width: 100%;
+
+}
+
+#pagetext {
+    font-size: large;
+}
+
+#title {
+    font-size: larger;
+    font-weight: bolder;
+}
+
+#start {
+    font-size: 20px;
+    width: 55%;
+    /* border-radius: 12px; */
+    /* background-color: lightseagreen; */
+    position: absolute;
+    left: 22%;
+
+}
+
+.question-container {
+    font-family: Cambria, serif; 
+    text-align: center;
+    width: 100%;
+}
+
+#start {
+    border-radius: 12px; 
+    transition-duration: 0.4s
+}
+
+#start:hover {
+    background-color: rgb(123, 154, 240);
+    color: white;
+}
+
+#a {
+    border-radius: 12px; 
+    transition-duration: 0.4s
+}
+
+#a:hover {
+    background-color: rgb(123, 154, 240);
+    color: white;
+}
+
+#b {
+    border-radius: 12px; 
+    transition-duration: 0.4s
+}
+
+#b:hover {
+    background-color: rgb(123, 154, 240);
+    color: white;
+}
+
+#c {
+    border-radius: 12px; 
+    transition-duration: 0.4s
+}
+
+#c:hover {
+    background-color: rgb(123, 154, 240);
+    color: white;
+}
+
+#d {
+    border-radius: 12px; 
+    transition-duration: 0.4s
+}
+
+#d:hover {
+    background-color: rgb(123, 154, 240);
+    color: white;
+}
